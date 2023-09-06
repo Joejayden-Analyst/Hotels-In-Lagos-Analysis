@@ -40,7 +40,7 @@ The following skills were demonstrated during the analysis;
 
 ## Data Sourcing
 
-    This data is from www.kaggle.com, the booming hotel businesses inspired me to analyse this data, it is  a data file with with 7 columns and 3395 rows.
+This data is from www.kaggle.com, the booming hotel businesses inspired me to analyse this data, it is  a data file with with 7 columns and 3395 rows.
 
 ![](Hotel2.jpeg)
 
@@ -60,7 +60,9 @@ Since this is a single file, no data modelling was needed.
 
 ## Analysing and Visualization
 
-![](PowerBIHotel.jpg)
+![](HotelsDashbaord.png)
+
+[Clck here for the interactive dashbaord]()
 
 - There was over 3395  hotels in lagos.
 
@@ -89,7 +91,7 @@ Since this is a single file, no data modelling was needed.
  
 ## Disclaimer
 
-     This analysis covered only regsitered and near five star hotels and not for makeshift hotels around so the cost mght be very high compare to some localities based on the facilities available.
+This analysis covered only regsitered and near five star hotels and not for makeshift hotels around so the cost mght be very high compare to some localities based on the facilities available.
 
 
 ## Thanks
