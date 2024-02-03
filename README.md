@@ -1,9 +1,9 @@
-## Lagos Hotels Analysis
+# Lagos Hotels Analysis
 
 ![](Hotel3.jpeg)
 
 
-## Introduction
+## Overview
 
 Lagos is the major hub of businesses in Nigeria. The state has airports, seaports and houses several business units infact, major business headquarters sit on the heart of lagos. Being the business hubs atttracts many investors and busnessmen on daily basis from all walks of life. This huge invasion of people has leadind to the increase in demand for hotels in this metropolis as led to increase in number of hotels business to accomodate the the high turnover of investors. this subsequently  has led to increase in healthy competition among the hoteliers. The number of hotels from this part of the country as ever been increasing.
 
